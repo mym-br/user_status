@@ -2,7 +2,7 @@
 User Status
 ===========
 
-2026-02-08
+2026-03-23
 ----------
 
 If the last commit is more than 6 months old, the person using the account
